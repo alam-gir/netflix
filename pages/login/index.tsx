@@ -87,7 +87,7 @@ const Login = () => {
           className="w-full rounded bg-[#e50914] py-3 font-semi capitalize"
           onClick={() => setLogin(true)}
         >
-          Sign Up
+          Sign In
         </button>
 
         <div className="capitalize text-[gray]">
